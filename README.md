@@ -1,4 +1,22 @@
-## Hi there 👋
+## Hello There!
+
+<a href=""><img align="left" width=22px src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg"/></a>
+<a href=""><img align="left" width=22px src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"/></a>
+<a href=""><img align="left" width=22px src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/></a>
+<br>
+
+### I'm Julien Hansen and I'm currently...
+
+  * 🖥️ Pursuing a PhD in Reinforcement Learning at the [University of Liege](https://www.uliege.be/) ⬛🟨🟥
+  * 📖 Learning about Deep Neural Networks, 🧑‍🤝‍🧑 Multi-Agents systems and 🎲 Game Theory
+  * 👀 Exploring the fields of : 🤖 Robotics, 🌍 High fidelity simulation and 
+  * 💬 Learning Italian 🟩⬜🟥, Otherwise I speak *French* (native) and *English* (C1)
+  * 🐻‍❄️ Doing powelifting exercises to stay in shape and clear my mind
+  * 📬 Reachable through the links above
+
+
+
+
 
 <!--
 **JulienHansen/JulienHansen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
