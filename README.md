@@ -9,7 +9,8 @@
 
   * 🖥️ Pursuing a PhD in Reinforcement Learning at the [University of Liege](https://www.uliege.be/) ⬛🟨🟥
   * 📖 Learning about Deep Neural Networks, 🧑‍🤝‍🧑 Multi-Agents systems and 🎲 Game Theory
-  * 👀 Exploring the fields of : 🤖 Robotics, 🌍 High fidelity simulation and 
+  * 👀 Exploring the fields of : 🤖 Robotics, 🌍 High fidelity simulation and Multi-Agents Reinforcement Learning 
+
   * 💬 Learning Italian 🟩⬜🟥, otherwise I speak *French* (native) and *English* (C1)
   * 🐻‍❄️ Doing powelifting exercises to stay in shape and clear my mind
   * 📬 Reachable through the links above
