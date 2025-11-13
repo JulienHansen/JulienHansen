@@ -12,7 +12,7 @@
   * 👀 Exploring the fields of : 🤖 Robotics, 🌍 High fidelity simulation and Multi-Agents Reinforcement Learning 
 
   * 💬 Learning Italian 🟩⬜🟥, otherwise I speak *French* (native) and *English* (C1)
-  * 🐻‍❄️ Doing powelifting exercises to stay in shape and clear my mind
+  * 🐻‍❄️ Doing exercises frequently to stay in shape, I'm a big fan of powerlifting 💪 and I also like to run 🏃
   * 📬 Reachable through the links above
 
 
